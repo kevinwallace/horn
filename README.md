@@ -15,3 +15,19 @@ $ go get github.com/kevinwallace/horn/cmd/horn
 ~~~ sh
 $ horn
 ~~~
+
+# easy
+
+Command-line easy button.
+
+## Installation
+
+~~~ sh
+$ go get github.com/kevinwallace/horn/cmd/easy
+~~~
+
+## Usage
+
+~~~ sh
+$ easy
+~~~
